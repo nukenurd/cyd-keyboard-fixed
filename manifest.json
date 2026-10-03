@@ -1,0 +1,4 @@
+{
+  "name": "CYD Keyboard v2.1",
+  "builds": [{"chipFamily": "ESP32","parts": [{"path": "cyd-keyboard-v2.1-firmware.bin","offset": 0}]}]
+}
